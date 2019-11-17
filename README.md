@@ -1,0 +1,2 @@
+# Minimo-front-page
+Minimo
